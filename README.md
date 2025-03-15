@@ -22,15 +22,14 @@ I'm a **Backend Developer**, **Full-Stack MERN Developer**, and **Software Engin
 - **Masterclass on AI Prompt Engineering**.
 - **Git for Beginners** practical learning series.
 
-🔗 **[Subscribe to my YouTube](https://youtube.com/yourchannel)**
+🔗 **[Subscribe to my YouTube](https://youtube.com/@theharshsuthar)**
 
 ## 📡 Connect with Me
-- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Harsh Suthar](https://linkedin.com/in/yourprofile)
-- **Instagram**: [@yourhandle](https://instagram.com/yourhandle)
+- **Twitter/X**: [@yourhandle](https://twitter.com/theharshsuthar)
+- **LinkedIn**: [Harsh Suthar](https://linkedin.com/in/theharshsuthar)
+- **Instagram**: [@yourhandle](https://instagram.com/theharshsuthar)
 
 ## 🔥 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theharshsuthar&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshsuthar&layout=compact&theme=tokyonight)
 
 ## 🚀 My Tech Stack
